@@ -22,9 +22,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wtg-TQ-jgT">
-                                <rect key="frame" x="132" y="318" width="111" height="30"/>
+                                <rect key="frame" x="169" y="318" width="38" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Just an exemple"/>
+                                <state key="normal" title="Teste"/>
                                 <connections>
                                     <action selector="buttonclicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="c63-mZ-FzC"/>
                                 </connections>
